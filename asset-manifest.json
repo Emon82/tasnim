@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tasnim/static/css/main.0227417a.css",
+    "main.js": "/tasnim/static/js/main.e89f840a.js",
+    "static/js/787.586b53ef.chunk.js": "/tasnim/static/js/787.586b53ef.chunk.js",
+    "index.html": "/tasnim/index.html",
+    "main.0227417a.css.map": "/tasnim/static/css/main.0227417a.css.map",
+    "main.e89f840a.js.map": "/tasnim/static/js/main.e89f840a.js.map",
+    "787.586b53ef.chunk.js.map": "/tasnim/static/js/787.586b53ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0227417a.css",
+    "static/js/main.e89f840a.js"
+  ]
+}
